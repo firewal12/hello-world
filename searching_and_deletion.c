@@ -1,4 +1,4 @@
-//program searches a particular value and delete it at all the desired places
+//program searches a particular value and delete it at all places of occurance
 #include<stdio.h>
 int main()
 {
