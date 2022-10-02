@@ -27,4 +27,5 @@ int main()
         printf("%d\n",ptr->data);
         ptr=ptr->link;
     }
+    free(ptr);
 }
